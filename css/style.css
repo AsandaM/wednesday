@@ -1,0 +1,42 @@
+h1{
+    background-color: aqua;
+}
+
+table{
+    background-color: antiquewhite;
+}
+
+h4{
+    text-align: center;
+    background-color: cadetblue;
+    color: white;
+}
+
+
+input{
+    width: 80%;
+    border: none;
+    border-bottom: 2px solid black;
+}
+label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+}
+
+input[type=submit]:hover{
+    background-color: #45a049;
+}
+
+select{
+    width: 80%;
+}
+
+footer{
+    text-align: center;
+    
+}
+button{
+    width: 30%;
+    background-color: aqua;
+    border-style: dashed;
+}
